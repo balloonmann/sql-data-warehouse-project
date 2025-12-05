@@ -2,6 +2,7 @@
 Data Warehouse Project
 
 Architecture Used - Medallion
+
 Loading:
    Processing Type - Batch Load
    Loading Method - Full Load
